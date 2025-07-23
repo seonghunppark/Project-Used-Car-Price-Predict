@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/car.svg</file>
+    <file>icons/car2.png</file>
+    <file>icons/car2_black.png</file>
+    <file>icons/reset.svg</file>
+    <file>icons/logo.svg</file>
+    <file>icons/character.svg</file>
+    <file>icons/character.png</file>
+    <file>icons/character2.png</file>
+    <file>icons/character_color.png</file>
+    <file>icons/close.svg</file>
+    <file>icons/maximize.svg</file>
+    <file>icons/minimize.svg</file>
+    <file>icons/minus.svg</file>
+  </qresource>
+</RCC>
