@@ -42,7 +42,7 @@
 연도 데이터를 원하는 연형 데이터로 전처리 (예 : 22/05식(23년형) -> 2023 )
 
 
-<img width="858" height="1016" alt="결과본 텍스트 추가" src="https://github.com/user-attachments/assets/1e18654c-cb8d-4c38-b4e8-c5d8366ed7ff" />
+<img width="128" height="152" alt="결과본 텍스트 추가" src="https://github.com/user-attachments/assets/1e18654c-cb8d-4c38-b4e8-c5d8366ed7ff" />
 
 
 트러블 슈팅:
